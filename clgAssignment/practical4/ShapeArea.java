@@ -29,4 +29,8 @@ class Area
 
 }
 
-
+/*Output:
+Area of Square: 25
+Area of Rectangle: 50
+Area of Circle: 176.625
+*/
