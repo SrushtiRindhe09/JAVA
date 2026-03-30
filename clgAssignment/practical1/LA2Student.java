@@ -1,4 +1,4 @@
-public class Student 
+public class LA2Student 
 {
     public static void main(String[] args) 
     {
