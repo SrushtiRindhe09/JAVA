@@ -1,3 +1,5 @@
+package practical7;
+
 import java.util.Scanner;
 
 class InvalidInputException extends Exception
