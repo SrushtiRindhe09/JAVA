@@ -19,4 +19,13 @@ class divide_by_zero {
     }
 }
 
+/*output:
+Enter the numerator: 6
+Enter the denominator: 3
+Result: 2
+
+Enter the numerator: 6
+Enter the denominator: 0
+Error: Cannot divide by zero.
+*/
 
